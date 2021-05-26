@@ -2,7 +2,7 @@
 
 - 🏫 Currently Studying - PSIT Kanpur 
 - 👨‍🎓  Degree Pursuing - B.Tech in CSE(A.I)
-- 🧠 Currently Exploring - Docker And Kubernetes
+- 🧠 Currently Exploring - Docker And Kubernetes | Golang
 - 👀 Currently Learning - Data Structures And Algorithms
 - 🌟  Programming Languages - C | C++ | Python
 - ✔  Web-Development - Full-Stack Web Developer
