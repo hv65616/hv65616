@@ -2,12 +2,10 @@
 
 - 🏫 Currently Studying - PSIT Kanpur 
 - 👨‍🎓  Degree Pursuing - B.Tech in CSE(A.I)
-- 🧠 Currently Exploring - Docker And Kubernetes
-- 👀 Currently Learning - Data Structures And Algorithms
-- 🌟  Programming Languages - C | C++ | Python
+- 👀 Currently Learning - Data Structures And Algorithms | Java | React.js
+- 🌟  Programming Languages - C++ | Python
 - ✔  Web-Development - Full-Stack Web Developer
 - 🎯 Front-End - HTML , CSS(BootStrap) , JAVASCRIPT(jQuery)
 - 🎯 Back-end - Node, Express , API , MySQL , MongoDB 
-- 📝 FrameWorks - React.js
 - ⚡ Fun fact - Apart from coding and development I loves to read books,novels
 
