@@ -7,5 +7,5 @@
 - ✔  Web-Development - Full-Stack Web Developer
 - 🎯 Front-End - HTML , CSS(BootStrap) , JAVASCRIPT(jQuery)
 - 🎯 Back-end - Node, Express , API , MySQL , MongoDB 
-- ⚡ Fun fact - Apart from coding and development I loves to read books,novels
+- ⚡ Fun fact - Apart from coding and developmen I am a Bibliophile
 
