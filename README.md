@@ -2,8 +2,8 @@
 
 - 🏫 Currently Studying - PSIT Kanpur 
 - 👨‍🎓  Degree Pursuing - B.Tech in CSE(A.I)
-- 👀 Currently Learning - Data Structures And Algorithms | Java | React.js
-- 🌟  Programming Languages - C++ | Python
+- 👀 Currently Learning - React.js | DevOps
+- 🌟  Programming Languages - C++
 - ✔  Web-Development - Full-Stack Web Developer
 - 🎯 Front-End - HTML , CSS(BootStrap) , JAVASCRIPT(jQuery)
 - 🎯 Back-end - Node, Express , API , MySQL , MongoDB 
