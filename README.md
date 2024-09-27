@@ -29,6 +29,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hv65616&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🥇 Badges
+[![An image of @hv65616's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hv65616)](https://holopin.io/@hv65616)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
